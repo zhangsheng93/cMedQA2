@@ -16,3 +16,22 @@ The older version of cMedQA is v1.0. You can [click here](https://github.com/zha
 * **answers.csv**  All Answers and their content.
 * **train_candidates.txt** **dev_candidates.txt** **test_candidates.txt** The split of training set, development set and test set respectively.
 
+# Paper
+**Multi-Scale Attentive Interaction Networks for Chinese Medical Question Answer Selection.** [link to the paper](https://ieeexplore.ieee.org/abstract/document/8548603)
+
+Please cite our paper when you use the dataset.
+
+```
+@ARTICLE{8548603, 
+author={S. Zhang and X. Zhang and H. Wang and L. Guo and S. Liu}, 
+journal={IEEE Access}, 
+title={Multi-Scale Attentive Interaction Networks for Chinese Medical Question Answer Selection}, 
+year={2018}, 
+volume={6}, 
+number={}, 
+pages={74061-74071}, 
+keywords={Biomedical imaging;Data mining;Semantics;Medical services;Feature extraction;Knowledge discovery;Medical question answering;interactive attention;deep learning;deep neural networks}, 
+doi={10.1109/ACCESS.2018.2883637}, 
+ISSN={2169-3536}, 
+month={},}
+```
